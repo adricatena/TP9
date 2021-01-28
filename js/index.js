@@ -33,7 +33,7 @@ var pie = `
     <a href="https://www.instagram.com/cucinaditati/" target="_blank"><i class="fab fa-instagram"></i></a>
     <a href="https://www.facebook.com/arai.moreyra.1" target="_blank"><i class="fab fa-facebook-f"></i></a>
     </div>
-    <p>Derechos reservados @2020</p>`
+    <p>Derechos reservados @2021</p>`
 document.getElementById("idHeader").innerHTML = encabezado;
 document.getElementById("idNav").innerHTML = nav;
 document.getElementById("idFooter").innerHTML = pie;
